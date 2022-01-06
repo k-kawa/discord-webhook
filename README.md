@@ -1,5 +1,13 @@
 # discord-webhook
 
+<!-- TOC -->
+
+- [discord-webhook](#discord-webhook)
+  - [Usage](#usage)
+    - [via command](#via-command)
+    - [as a step in cloud build](#as-a-step-in-cloud-build)
+
+<!-- /TOC -->
 ## Usage
 
 ### via command
